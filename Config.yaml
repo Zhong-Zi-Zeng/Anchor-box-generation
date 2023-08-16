@@ -1,0 +1,12 @@
+# ======= Dataset (COCO or VOC2007) =======
+ANNOTATIONS_DIR: "D:/VOC2007/Annotations"
+IMAGES_DIR: "D:/VOC2007/JPEGImages"
+DATASET: "VOC2007"
+
+#ANNOTATIONS_DIR: "D:/coco_dataset/annotations/instances_train2017.json"
+#IMAGES_DIR: "D:/coco_dataset/train2017"
+#DATASET: "COCO"
+
+# ======= K-means =======
+K: 5
+MAX_ITER: 400
